@@ -1,5 +1,6 @@
 # kurakani app - Chat app using Go Lang
 
+  Kurakani means Chatting! So, this is a chat application built using GO Lang (both server and client).
   Package net/rpc has been used to get the portable interface for network I/O (TCP/IP). The console application has used only the basic interface provided by the Dial, Listen, and Accept functions and the associated Conn and Listener interfaces. 
   
   The Listen function creates server at port 4321 and the Dial function from the client connects to the server. 
